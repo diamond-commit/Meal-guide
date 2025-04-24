@@ -27,7 +27,7 @@ Spoonacular API
 Contributions are always welcome! If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. Please ensure your code follows best practices and is well-documented.
 
 ## Credits
-Built with love by [Your Name]
+Built with love by [Diamond]
 
 Powered by the Spoonacular API
 

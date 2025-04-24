@@ -59,6 +59,7 @@ let input = document.getElementById("input")
          li.textContent =  "Meal isn't available "
          ul.appendChild(li)
       }
+      // catch
     } catch (error) {
       console.log(error)
       let li =  document.createElement("li")
