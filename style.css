@@ -1,0 +1,14 @@
+body{
+    margin: 0%;
+    background-color: #FBF5F3;
+}
+html, body{
+    overflow-x: hidden;
+}
+
+#foodlist {
+    height: auto;
+    font-family: 'Sacramento', cursive;
+    width: auto;
+    font-size: x-large;
+}
